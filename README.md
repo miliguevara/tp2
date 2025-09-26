@@ -1,4 +1,4 @@
-# Historia Monumental: River Plate TP0X (Laboratorio de Programación)
+# Historia Monumental: River Plate TP2X (Laboratorio de Programación)
 
 ## 1. Descripción del Proyecto
 
